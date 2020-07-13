@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ryan Van Antwerp</title>
-    <link>https://drvan.github.io/categories/</link>
+    <link>https://drvan.dev/categories/</link>
     <description>Recent content in Categories on Ryan Van Antwerp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://drvan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://drvan.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Science With You Friends</title>
-      <link>https://drvan.github.io/categories/data-science-with-you-friends/</link>
+      <link>https://drvan.dev/categories/data-science-with-you-friends/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://drvan.github.io/categories/data-science-with-you-friends/</guid>
+      <guid>https://drvan.dev/categories/data-science-with-you-friends/</guid>
       <description></description>
     </item>
     
