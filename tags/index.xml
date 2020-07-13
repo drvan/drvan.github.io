@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ryan Van Antwerp</title>
-    <link>drvan.github.io/tags/</link>
+    <link>https://drvan.github.io/tags/</link>
     <description>Recent content in Tags on Ryan Van Antwerp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="drvan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://drvan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>discord</title>
-      <link>drvan.github.io/tags/discord/</link>
+      <link>https://drvan.github.io/tags/discord/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>drvan.github.io/tags/discord/</guid>
+      <guid>https://drvan.github.io/tags/discord/</guid>
       <description></description>
     </item>
     
     <item>
       <title>natural language processing</title>
-      <link>drvan.github.io/tags/natural-language-processing/</link>
+      <link>https://drvan.github.io/tags/natural-language-processing/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>drvan.github.io/tags/natural-language-processing/</guid>
+      <guid>https://drvan.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reinhold</title>
-      <link>drvan.github.io/tags/reinhold/</link>
+      <link>https://drvan.github.io/tags/reinhold/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>drvan.github.io/tags/reinhold/</guid>
+      <guid>https://drvan.github.io/tags/reinhold/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sentiment analysis</title>
-      <link>drvan.github.io/tags/sentiment-analysis/</link>
+      <link>https://drvan.github.io/tags/sentiment-analysis/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>drvan.github.io/tags/sentiment-analysis/</guid>
+      <guid>https://drvan.github.io/tags/sentiment-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>totallynot</title>
-      <link>drvan.github.io/tags/totallynot/</link>
+      <link>https://drvan.github.io/tags/totallynot/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>drvan.github.io/tags/totallynot/</guid>
+      <guid>https://drvan.github.io/tags/totallynot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>drvan.github.io/tags/index/</link>
+      <link>https://drvan.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>drvan.github.io/tags/index/</guid>
+      <guid>https://drvan.github.io/tags/index/</guid>
       <description></description>
     </item>
     
